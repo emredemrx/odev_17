@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f347249e-430f-4f25-9719-0eb0c30374e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/Personel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/dockerMYSQL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/uzakMYSQL.java" afterDir="false" />
+    <list default="true" id="f347249e-430f-4f25-9719-0eb0c30374e2" name="Changes" comment="odev 17 geliştirmesi">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/example/Personel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/example/Personel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/example/dockerMYSQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/example/dockerMYSQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/example/uzakMYSQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/example/uzakMYSQL.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +86,20 @@
       <option name="presentableId" value="Default" />
       <updated>1721934160108</updated>
     </task>
+    <task id="LOCAL-00001" summary="odev 17 geliştirmesi">
+      <option name="closed" value="true" />
+      <created>1721934373365</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721934373365</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="odev 17 geliştirmesi" />
+    <option name="LAST_COMMIT_MESSAGE" value="odev 17 geliştirmesi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
