@@ -8,7 +8,7 @@ import org.jdbi.v3.core.statement.StatementException;
 public class uzakMYSQL {
     static String url = "jdbc:mysql://mysql-659d5db-femredemir699-c416.d.aivencloud.com:19782/defaultdb";
     static String kullaniciAdi = "avnadmin";
-    static String sifre = "AVNS_LuDIQhtTbr_9Juw5zh-";
+    static String sifre = "xxxxxxxxxxxxxxx";
 
     public static void main(String[] args) {
         Jdbi jdbi = Jdbi.create(url, kullaniciAdi, sifre);
